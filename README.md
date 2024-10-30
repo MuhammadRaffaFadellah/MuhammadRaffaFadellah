@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammadRaffaFadellah
+- 👋 Hi, I’m Muhammad Raffa Fadellah
 - 👀 I’m interested in code and game!
 - 🌱 I’m currently learning javascript framework and mobile!
 - 💞️ I’m looking to collaborate on ...
