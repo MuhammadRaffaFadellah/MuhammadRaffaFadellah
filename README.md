@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Muhammad Raffa Fadellah
-- 👀 I’m interested in code and game!
-- 🌱 I’m currently learning javascript framework and mobile!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+<h1>
+  I`m Muhammad Raffa Fadellah
+</h1>
+
+-  I’m frontend developer.
+-  17 y/o
+-  Pronouns: He/Him
 
 <!---
 MuhammadRaffaFadellah/MuhammadRaffaFadellah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
