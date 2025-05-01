@@ -1,6 +1,6 @@
-<h1>
-  I`m Muhammad Raffa Fadellah
-</h1>
+# Hi! Nice to meet you. 👋
+
+My name is Muhammad Raffa Fadellah. Developer from 🇲🇨 Cirebon, Indonesia.
 
 -  I’m frontend developer.
 -  17 y/o
