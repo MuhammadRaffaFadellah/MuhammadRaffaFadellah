@@ -1,10 +1,10 @@
-# Hi! Nice to meet you. 👋
+# Hi! Nice to meet you 👋
 
 My name is Muhammad Raffa Fadellah.
-Developer from Cirebon, Indonesia 🇲🇨
+Im a developer from Cirebon, Indonesia 🇲🇨
 
--  Im frontend developer.
--  Computer Science student.
+-  Developer
+-  Computer Science student
 
 <!---
 MuhammadRaffaFadellah/MuhammadRaffaFadellah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
