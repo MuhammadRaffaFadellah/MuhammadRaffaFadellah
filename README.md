@@ -1,7 +1,7 @@
-# Hi! Nice to meet you 👋
+![Header](./github-header-image.png)
 
 My name is Muhammad Raffa Fadellah.
-Im a developer from Cirebon, Indonesia 🇲🇨
+Im a developer from Cirebon, Indonesia.
 
 -  Developer
 -  Computer Science student
