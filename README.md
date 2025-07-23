@@ -5,6 +5,9 @@ Im a developer from Batam, Indonesia.
 
 -  Computer Engineering Students
 
+
+
+
 Interested in my projects and want to collaborate or create a project?
 My personal information 👇
 
