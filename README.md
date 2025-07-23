@@ -4,7 +4,7 @@ My name is Muhammad Raffa Fadellah.
 Im a developer from Cirebon, Indonesia.
 
 -  Developer
--  Computer Science student
+-  Computer Engineering Students
 
 <!---
 MuhammadRaffaFadellah/MuhammadRaffaFadellah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
