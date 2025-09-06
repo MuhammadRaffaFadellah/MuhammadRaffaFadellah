@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 My name is Muhammad Raffa Fadellah.
-Im a developer from Batam city, Indonesia.
+Im a website developer from Indonesia.
 
 -  Computer Engineering Students
 
